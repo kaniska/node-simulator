@@ -1,0 +1,18 @@
+{
+  "name": "parabole_systems",
+  "version": "1.0.0",
+  "main": "ApplicationSystem.js",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "3.3.8",
+    "http": "0.0.0"
+  }
+}
